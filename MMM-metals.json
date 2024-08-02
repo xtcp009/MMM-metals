@@ -1,0 +1,8 @@
+    {
+        module: 'MMM-metals',
+        position: 'top_left',
+        config: {
+            updateInterval: 3600000 // update every hour
+            apikey: '<yourApiKeyHere>'
+        }
+    },
