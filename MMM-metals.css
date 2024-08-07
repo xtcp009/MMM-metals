@@ -1,9 +1,8 @@
 /* Style for gold prices */
-
 .gold-prices {
   display: flex;
-  justifyContent: space-between;
-  alignItems: center;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .hourly-price {
